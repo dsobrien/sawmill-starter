@@ -1,0 +1,149 @@
+2018-08-22 11:07:11 POST EXPORT CLEANUP: complete
+2018-08-22 11:07:11 CLEANING WORKING FILES:
+2018-08-22 11:07:11 POST EXPORT CLEANUP: starting...
+2018-08-22 11:07:11 ZIP CREATED: Download at http://www.annamaribosko.com/wp-content/uploads/wp-static-html-output-1-1534979221-user.zip
+2018-08-22 11:07:11 CREATING ZIP FILE...
+2018-08-22 11:07:11 POST PROCESSING ARCHIVE DIR: ...
+2018-08-22 11:07:10 (RE)CREATING SYMLINK TO LATEST EXPORT FOLDER: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/latest-1
+2018-08-22 11:07:10 REMOVING SYMLINK: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/latest-1
+2018-08-22 11:07:10 CRAWLING SITE: 0 files remaining
+2018-08-22 11:07:10 SAVING URL: /wp-content/uploads/2018/07/RESUME4WEBSITE.jpg to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/uploads/2018/07/RESUME4WEBSITE.jpg
+2018-08-22 11:07:10 CRAWLED FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/RESUME4WEBSITE.jpg
+2018-08-22 11:07:10 DISCOVERED NEW FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/RESUME4WEBSITE.jpg
+2018-08-22 11:07:10 SAVING URL: /resume-2/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/resume-2/index.html
+2018-08-22 11:07:10 CRAWLED FILE: http://www.annamaribosko.com/resume-2/
+2018-08-22 11:07:10 CRAWLING URL: http://www.annamaribosko.com/resume-2/
+2018-08-22 11:07:10 CRAWLING SITE: 1 files remaining
+2018-08-22 11:07:10 SAVING URL: /2018/07/06/back-to-the-homeland/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/2018/07/06/back-to-the-homeland/index.html
+2018-08-22 11:07:10 CRAWLED FILE: http://www.annamaribosko.com/2018/07/06/back-to-the-homeland/
+2018-08-22 11:07:10 CRAWLING URL: http://www.annamaribosko.com/2018/07/06/back-to-the-homeland/
+2018-08-22 11:07:09 CRAWLING SITE: 2 files remaining
+2018-08-22 11:07:09 SAVING URL: /wp-content/uploads/2018/07/MarketingPlan-Sample.pdf to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/uploads/2018/07/MarketingPlan-Sample.pdf
+2018-08-22 11:07:09 CRAWLED FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/MarketingPlan-Sample.pdf
+2018-08-22 11:07:09 DISCOVERED NEW FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/MarketingPlan-Sample.pdf
+2018-08-22 11:07:09 SAVING URL: /wp-content/uploads/2018/07/USASFinfokit.zip to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/uploads/2018/07/USASFinfokit.zip
+2018-08-22 11:07:09 CRAWLED FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/USASFinfokit.zip
+2018-08-22 11:07:09 DISCOVERED NEW FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/USASFinfokit.zip
+2018-08-22 11:07:09 SAVING URL: /wp-content/uploads/2018/07/Samples2FPortfolio-1.pdf to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/uploads/2018/07/Samples2FPortfolio-1.pdf
+2018-08-22 11:07:09 CRAWLED FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/Samples2FPortfolio-1.pdf
+2018-08-22 11:07:09 DISCOVERED NEW FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/Samples2FPortfolio-1.pdf
+2018-08-22 11:07:09 SAVING URL: /portfolio/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/portfolio/index.html
+2018-08-22 11:07:09 CRAWLED FILE: http://www.annamaribosko.com/portfolio/
+2018-08-22 11:07:09 CRAWLING URL: http://www.annamaribosko.com/portfolio/
+2018-08-22 11:07:09 CRAWLING SITE: 3 files remaining
+2018-08-22 11:07:09 SAVING URL: /wp-content/uploads/2018/07/profileimage-265x300.jpg to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/uploads/2018/07/profileimage-265x300.jpg
+2018-08-22 11:07:09 CRAWLED FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/profileimage-265x300.jpg
+2018-08-22 11:07:09 DISCOVERED NEW FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/profileimage-265x300.jpg
+2018-08-22 11:07:09 SAVING URL: /about-me/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/about-me/index.html
+2018-08-22 11:07:09 CRAWLED FILE: http://www.annamaribosko.com/about-me/
+2018-08-22 11:07:09 CRAWLING URL: http://www.annamaribosko.com/about-me/
+2018-08-22 11:07:08 CRAWLING SITE: 4 files remaining
+2018-08-22 11:07:08 SAVING URL: /tag/food/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/tag/food/index.html
+2018-08-22 11:07:08 CRAWLED FILE: http://www.annamaribosko.com/tag/food/
+2018-08-22 11:07:08 DISCOVERED NEW FILE: http://www.annamaribosko.com/tag/food/
+2018-08-22 11:07:08 SAVING URL: /tag/dogs/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/tag/dogs/index.html
+2018-08-22 11:07:08 CRAWLED FILE: http://www.annamaribosko.com/tag/dogs/
+2018-08-22 11:07:08 DISCOVERED NEW FILE: http://www.annamaribosko.com/tag/dogs/
+2018-08-22 11:07:08 SAVING URL: /tag/animals/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/tag/animals/index.html
+2018-08-22 11:07:08 CRAWLED FILE: http://www.annamaribosko.com/tag/animals/
+2018-08-22 11:07:08 DISCOVERED NEW FILE: http://www.annamaribosko.com/tag/animals/
+2018-08-22 11:07:08 SAVING URL: /2017/08/02/wet-n-wild/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/2017/08/02/wet-n-wild/index.html
+2018-08-22 11:07:08 CRAWLED FILE: http://www.annamaribosko.com/2017/08/02/wet-n-wild/
+2018-08-22 11:07:08 CRAWLING URL: http://www.annamaribosko.com/2017/08/02/wet-n-wild/
+2018-08-22 11:07:08 CRAWLING SITE: 5 files remaining
+2018-08-22 11:07:08 SAVING URL: /contact/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/contact/index.html
+2018-08-22 11:07:08 CRAWLED FILE: http://www.annamaribosko.com/contact/
+2018-08-22 11:07:07 CRAWLING URL: http://www.annamaribosko.com/contact/
+2018-08-22 11:07:07 CRAWLING SITE: 6 files remaining
+2018-08-22 11:07:07 SAVING URL: /tag/sweet/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/tag/sweet/index.html
+2018-08-22 11:07:07 CRAWLED FILE: http://www.annamaribosko.com/tag/sweet/
+2018-08-22 11:07:07 DISCOVERED NEW FILE: http://www.annamaribosko.com/tag/sweet/
+2018-08-22 11:07:07 SAVING URL: /tag/music/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/tag/music/index.html
+2018-08-22 11:07:07 CRAWLED FILE: http://www.annamaribosko.com/tag/music/
+2018-08-22 11:07:07 DISCOVERED NEW FILE: http://www.annamaribosko.com/tag/music/
+2018-08-22 11:07:07 SAVING URL: /tag/automotive/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/tag/automotive/index.html
+2018-08-22 11:07:07 CRAWLED FILE: http://www.annamaribosko.com/tag/automotive/
+2018-08-22 11:07:07 DISCOVERED NEW FILE: http://www.annamaribosko.com/tag/automotive/
+2018-08-22 11:07:07 SAVING URL: /2017/04/23/pr-case-starbucks-unicorn-frappuccino/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/2017/04/23/pr-case-starbucks-unicorn-frappuccino/index.html
+2018-08-22 11:07:07 CRAWLED FILE: http://www.annamaribosko.com/2017/04/23/pr-case-starbucks-unicorn-frappuccino/
+2018-08-22 11:07:06 CRAWLING URL: http://www.annamaribosko.com/2017/04/23/pr-case-starbucks-unicorn-frappuccino/
+2018-08-22 11:07:06 CRAWLING SITE: 7 files remaining
+2018-08-22 11:07:06 SAVING URL: /tag/writing-sample/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/tag/writing-sample/index.html
+2018-08-22 11:07:06 CRAWLED FILE: http://www.annamaribosko.com/tag/writing-sample/
+2018-08-22 11:07:06 DISCOVERED NEW FILE: http://www.annamaribosko.com/tag/writing-sample/
+2018-08-22 11:07:06 SAVING URL: /tag/travel/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/tag/travel/index.html
+2018-08-22 11:07:06 CRAWLED FILE: http://www.annamaribosko.com/tag/travel/
+2018-08-22 11:07:06 DISCOVERED NEW FILE: http://www.annamaribosko.com/tag/travel/
+2018-08-22 11:07:06 SAVING URL: /2017/07/25/start-day-positive-2/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/2017/07/25/start-day-positive-2/index.html
+2018-08-22 11:07:06 CRAWLED FILE: http://www.annamaribosko.com/2017/07/25/start-day-positive-2/
+2018-08-22 11:07:06 CRAWLING URL: http://www.annamaribosko.com/2017/07/25/start-day-positive-2/
+2018-08-22 11:07:05 CRAWLING SITE: 8 files remaining
+2018-08-22 11:07:05 SAVING URL: /post-elements/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/post-elements/index.html
+2018-08-22 11:07:05 CRAWLED FILE: http://www.annamaribosko.com/post-elements/
+2018-08-22 11:07:05 CRAWLING URL: http://www.annamaribosko.com/post-elements/
+2018-08-22 11:07:05 CRAWLING SITE: 9 files remaining
+2018-08-22 11:07:05 SAVING URL: /my-account/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/my-account/index.html
+2018-08-22 11:07:05 CRAWLED FILE: http://www.annamaribosko.com/my-account/
+2018-08-22 11:07:05 CRAWLING URL: http://www.annamaribosko.com/my-account/
+2018-08-22 11:07:05 CRAWLING SITE: 10 files remaining
+2018-08-22 11:07:05 SAVING URL: /contact-me/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/contact-me/index.html
+2018-08-22 11:07:05 CRAWLED FILE: http://www.annamaribosko.com/contact-me/
+2018-08-22 11:07:04 CRAWLING URL: http://www.annamaribosko.com/contact-me/
+2018-08-22 11:07:04 CRAWLING SITE: 11 files remaining
+2018-08-22 11:07:04 SAVING URL: /travel/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/travel/index.html
+2018-08-22 11:07:04 CRAWLED FILE: http://www.annamaribosko.com/travel/
+2018-08-22 11:07:04 CRAWLING URL: http://www.annamaribosko.com/travel/
+2018-08-22 11:07:04 CRAWLING SITE: 12 files remaining
+2018-08-22 11:07:04 SAVING URL: /posts/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/posts/index.html
+2018-08-22 11:07:04 CRAWLED FILE: http://www.annamaribosko.com/posts/
+2018-08-22 11:07:03 CRAWLING URL: http://www.annamaribosko.com/posts/
+2018-08-22 11:07:03 CRAWLING SITE: 13 files remaining
+2018-08-22 11:07:03 SAVING URL: /resume/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/resume/index.html
+2018-08-22 11:07:03 CRAWLED FILE: http://www.annamaribosko.com/resume/
+2018-08-22 11:07:03 CRAWLING URL: http://www.annamaribosko.com/resume/
+2018-08-22 11:07:03 CRAWLING SITE: 14 files remaining
+2018-08-22 11:07:03 SAVING URL: /sample-page/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/sample-page/index.html
+2018-08-22 11:07:03 CRAWLED FILE: http://www.annamaribosko.com/sample-page/
+2018-08-22 11:07:03 CRAWLING URL: http://www.annamaribosko.com/sample-page/
+2018-08-22 11:07:02 CRAWLING SITE: 15 files remaining
+2018-08-22 11:07:02 SAVING URL: /wp-content/themes/ashe/style.css to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/themes/ashe/style.css
+2018-08-22 11:07:02 CRAWLED FILE: http://www.annamaribosko.com/wp-content/themes/ashe/style.css
+2018-08-22 11:07:02 CRAWLING URL: http://www.annamaribosko.com/wp-content/themes/ashe/style.css
+2018-08-22 11:07:02 CRAWLING SITE: 16 files remaining
+2018-08-22 11:07:02 SAVING URL: /wp-content/themes/ashe/screenshot.png to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/themes/ashe/screenshot.png
+2018-08-22 11:07:02 CRAWLED FILE: http://www.annamaribosko.com/wp-content/themes/ashe/screenshot.png
+2018-08-22 11:07:02 CRAWLING URL: http://www.annamaribosko.com/wp-content/themes/ashe/screenshot.png
+2018-08-22 11:07:02 CRAWLING SITE: 17 files remaining
+2018-08-22 11:07:02 SAVING URL: /wp-content/themes/ashe/rtl.css to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/themes/ashe/rtl.css
+2018-08-22 11:07:02 CRAWLED FILE: http://www.annamaribosko.com/wp-content/themes/ashe/rtl.css
+2018-08-22 11:07:02 CRAWLING URL: http://www.annamaribosko.com/wp-content/themes/ashe/rtl.css
+2018-08-22 11:07:02 CRAWLING SITE: 18 files remaining
+2018-08-22 11:07:02 SAVING URL: /wp-content/themes/ashe/readme.txt to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/themes/ashe/readme.txt
+2018-08-22 11:07:02 CRAWLED FILE: http://www.annamaribosko.com/wp-content/themes/ashe/readme.txt
+2018-08-22 11:07:02 CRAWLING URL: http://www.annamaribosko.com/wp-content/themes/ashe/readme.txt
+2018-08-22 11:07:02 CRAWLING SITE: 19 files remaining
+2018-08-22 11:07:02 SAVING URL: /category/travel/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/category/travel/index.html
+2018-08-22 11:07:02 CRAWLED FILE: http://www.annamaribosko.com/category/travel/
+2018-08-22 11:07:01 DISCOVERED NEW FILE: http://www.annamaribosko.com/category/travel/
+2018-08-22 11:07:01 SAVING URL: /category/writing-sample/ to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/category/writing-sample/index.html
+2018-08-22 11:07:01 CRAWLED FILE: http://www.annamaribosko.com/category/writing-sample/
+2018-08-22 11:07:01 DISCOVERED NEW FILE: http://www.annamaribosko.com/category/writing-sample/
+2018-08-22 11:07:01 SAVING URL: /wp-content/uploads/2018/07/cropped-aromatic-beautiful-bloom-828544.jpg);background-size:cover;background-position:center to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/wp-content/uploads/2018/07/cropped-aromatic-beautiful-bloom-828544.jpgbackground-size:cover;background-position:center
+2018-08-22 11:07:01 CRAWLED FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/cropped-aromatic-beautiful-bloom-828544.jpg);background-size:cover;background-position:center
+2018-08-22 11:07:01 DISCOVERED NEW FILE: http://www.annamaribosko.com/wp-content/uploads/2018/07/cropped-aromatic-beautiful-bloom-828544.jpg);background-size:cover;background-position:center
+2018-08-22 11:07:01 SAVING URL: / to new path/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/wp-static-html-output-1-1534979221-user/index.html
+2018-08-22 11:07:01 CRAWLED FILE: http://www.annamaribosko.com/
+2018-08-22 11:07:01 CRAWLING URL: http://www.annamaribosko.com/
+2018-08-22 11:07:01 STARTING EXPORT: initial crawl list contains 21 files
+2018-08-22 11:07:01 STARTING EXPORT: STATIC EXPORT URL http://annamaribosko.com
+2018-08-22 11:07:01 STARTING EXPORT: VIA CLI? 
+2018-08-22 11:07:01 STARTING EXPORT: PLUGIN VERSION 5.4
+2018-08-22 11:07:01 STARTING EXPORT: WP ADDRESS http://www.annamaribosko.com
+2018-08-22 11:07:01 STARTING EXPORT: WP HOME http://www.annamaribosko.com
+2018-08-22 11:07:01 STARTING EXPORT: WP SITEURL http://www.annamaribosko.com
+2018-08-22 11:07:01 STARTING EXPORT: WP URL http://www.annamaribosko.com
+2018-08-22 11:07:01 STARTING EXPORT: WP VERSION 4.9.8
+2018-08-22 11:07:01 STARTING EXPORT: OS VERSION Linux ip-172-31-95-119 4.4.0-1060-aws #69-Ubuntu SMP Sun May 20 13:42:07 UTC 2018 x86_64
+2018-08-22 11:07:01 STARTING EXPORT: PHP MAX EXECUTION TIME 120
+2018-08-22 11:07:01 STARTING EXPORT: PHP VERSION 7.0.30
+2018-08-22 11:07:01 STARTING EXPORT2018-08-22 11:07:01
